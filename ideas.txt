@@ -1,0 +1,21 @@
+Brainstorm
+Generate at least 5 compelling project ideas for web applications you would like to create. The web app should have a database, a back end, and a front end with at last 3-5 interactive web form features. You can feature data visualizations, searches, maps, or other interactive elements (or not).
+
+Tips for generating ideas
+Make a list of hobbies and interests, and then use that to structure your brainstorming
+    -personal website/blog
+    -fitness/nutrition site
+
+Make a list of daily activities, and then use that to structure your brainstorming
+    -fitness app
+    -cooking app
+    -online journal
+
+Make a list of problems you would like to solve
+
+Go use a few of your favorite/most used websites and look for inspiration for something you’d like to build
+    -Netflix clone
+    -Twitter clone
+    -Instagram clone
+
+Once you have at least 5 ideas that are exciting/interesting to you, continue on to the next section.
