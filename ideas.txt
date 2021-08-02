@@ -8,8 +8,9 @@ Make a list of hobbies and interests, and then use that to structure your brains
 
 Make a list of daily activities, and then use that to structure your brainstorming
     -fitness app
-    -cooking app
+    -recipe app
     -online journal
+    -to do list
 
 Make a list of problems you would like to solve
 
@@ -19,3 +20,5 @@ Go use a few of your favorite/most used websites and look for inspiration for so
     -Instagram clone
 
 Once you have at least 5 ideas that are exciting/interesting to you, continue on to the next section.
+
+

@@ -1,0 +1,28 @@
+Top two capstone project ideas:
+1. Planner/To do list
+2. Goal Setting Planner
+
+
+Pitch/Idea:
+Personal goal planner app can store, track personal goals and allow users to plan out their day and have the option of using a timer for specified goals.
+
+MVP:
+-users can create or login to account
+-users can set/update/edit/delete daily goals
+-users account will store/save private information in personal account
+-users can easily track progress when goals are or are not achieved
+-users can use a timer to track specific goals to help with time management
+
+
+Technologies to use:
+
+
+Other Requirements:
+-database
+-front-end
+-back-end
+-3-5 interactive web form features
+
+
+Future Features:
+(not needed for today, just focus on MVP)
