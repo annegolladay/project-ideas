@@ -1,8 +1,21 @@
 Top two capstone project ideas:
-1. Planner/To do list
+1. Bitcoin Tracker App
 2. Goal Setting Planner
 
+Bitcoin Tracker App
+Pitch/Idea:
+Bitcoin tracker app that allows the user to view past and current bitcoin prices to track the optimum time to buy or sell based on daily pricing changes.
 
+MVP:
+-users can search for the daily current bitcoin price
+-users can search past prices through historical searches
+-users can choose a start and end date to show patterns between current and past prices
+-users can view past stored searches unique to user's ip address
+*****users can create or login to account to see past history (save for later if needed)
+
+
+
+Goal Setting Planner
 Pitch/Idea:
 Personal goal planner app can store, track personal goals and allow users to plan out their day and have the option of using a timer for specified goals.
 
@@ -15,9 +28,9 @@ MVP:
 
 
 Technologies to use:
+React, Node, Express, PostgreSQL
 
-
-Other Requirements:
+Requirements:
 -database
 -front-end
 -back-end
